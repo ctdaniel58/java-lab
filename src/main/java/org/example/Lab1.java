@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Date;
 
-public class Lab2 {
+public class Lab1 {
     public static void main(String[] args) {
         // 1. Kiểu dữ liệu nguyên thủy
         int intNumber = 1;
